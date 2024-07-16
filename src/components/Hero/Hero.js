@@ -13,6 +13,7 @@ import {
 import { TypeAnimation } from "react-type-animation";
 import ScrollAnimation from "react-animate-on-scroll";
 import photo from "../../assets/photo.png";
+import scrollsvg from "../../assets/scroll-down.svg"
 
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
@@ -121,7 +122,7 @@ function Hero() {
             <ScrollDown to="about" id="scrollDown">
               <ScrollLink>
                 Scroll down
-                <img src="/scroll-down.svg" alt="scroll-down" />
+                <img src={scrollsvg} alt="scroll-down" />
               </ScrollLink>
             </ScrollDown>
           </ScrollAnimation>
