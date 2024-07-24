@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.bb9241ef.css",
-    "main.js": "/Portfolio/static/js/main.9d8e528a.js",
+    "main.css": "/Portfolio/static/css/main.5cb4c16a.css",
+    "main.js": "/Portfolio/static/js/main.aaffbfb1.js",
     "static/media/Sport Analysis- Cricket .png": "/Portfolio/static/media/Sport Analysis- Cricket .212be251518ff25ad8f3.png",
     "static/media/ABG.png": "/Portfolio/static/media/ABG.c37dc98694c2a2bb9d4a.png",
     "static/media/CAS.png": "/Portfolio/static/media/CAS.2ee73922ff3d01a98332.png",
@@ -27,11 +27,11 @@
     "static/media/scroll-down.svg": "/Portfolio/static/media/scroll-down.f379348c6096553dbfe4d31167015caa.svg",
     "index.html": "/Portfolio/index.html",
     "static/media/blob-haikei.svg": "/Portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
-    "main.bb9241ef.css.map": "/Portfolio/static/css/main.bb9241ef.css.map",
-    "main.9d8e528a.js.map": "/Portfolio/static/js/main.9d8e528a.js.map"
+    "main.5cb4c16a.css.map": "/Portfolio/static/css/main.5cb4c16a.css.map",
+    "main.aaffbfb1.js.map": "/Portfolio/static/js/main.aaffbfb1.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb9241ef.css",
-    "static/js/main.9d8e528a.js"
+    "static/css/main.5cb4c16a.css",
+    "static/js/main.aaffbfb1.js"
   ]
 }
