@@ -9,8 +9,8 @@ import ScrollToTop from "../components/SocialIcon/ScrollToTop";
 import Skills from "../components/Skills/Skills";
 import Education from "../components/Education/Education";
 import Tools from "../components/Tools /Tools";
-import Experience from "../components/Experience/Experience";
 import Certifications from "../components/Certifications/Certifications";
+import Experience from "../components/Experience/Experience";
 function Home() {
   return (
     <>

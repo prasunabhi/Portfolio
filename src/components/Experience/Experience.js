@@ -57,7 +57,7 @@ function Experience() {
     <>
       <br />
       <br />
-      <div className="ProjectWrapper" id="work-experience">
+      <div className="ProjectWrapper" id="experience">
         <div className="Container">
           <div className="SectionTitle">Work Experience</div>
           <div className="WorkExperienceDetails">
