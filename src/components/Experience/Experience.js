@@ -5,15 +5,15 @@ function Experience() {
   const workExperience = [
     {
       id: 1,
-      position: "Quality Control Analyst",
+      position: "Business Analytics Consultant",
       company: "Baxter International Inc.",
       location: "Skaneateles, NY",
       date: "September 2023 - December 2023",
       responsibilities: [
-        "Championed a Lean Six Sigma project, leading a 5-member team to reduce defects in Reusable Blood Pressure Cuffs, achieving an 8.5% defect reduction.",
-        "Conducted in-depth data analysis and root cause analysis, identifying key areas for process improvement and operational efficiency.",
-        "Implemented strategic process optimizations, enhancing product quality and contributing to the overall success of manufacturing processes.",
-        "Delivered actionable recommendations based on data insights, driving significant improvements in manufacturing and quality control.",
+        "Championed a Lean Six Sigma project, meticulously leading a 5-member team to reduce defects in Reusable Blood Pressure Cuffs. Through detailed data analysis and strategic planning, achieved an 8.5% reduction in product defects, significantly enhancing product reliability and customer satisfaction.",
+        "Conducted in-depth data analysis and root cause analysis, identifying key areas for process improvement and operational efficiency, resulting in a 19% increase in efficiency.",
+        "Implemented strategic process optimizations, enhancing product quality and contributing to a 10% reduction in production waste and the overall success of manufacturing processes.",
+        "Delivered actionable recommendations based on data insights, driving a 14% improvement in manufacturing processes and quality control.",
       ],
     },
     {
@@ -23,10 +23,9 @@ function Experience() {
       location: "Mumbai, India",
       date: "November 2020 - October 2021",
       responsibilities: [
-        "Orchestrated end-to-end data compilation and analysis for raw materials, optimizing production efficiency and communication between departments.",
-        "Implemented innovative data reporting techniques, including static and dashboard methods, leading to improved decision-making capabilities.",
-        "Achieved a 15% increase in production efficiency and a 10% increase in revenue through comprehensive business reports and data-driven strategies.",
-        "Streamlined communication between departments, enhancing productivity and operational efficiency.",
+        "Orchestrated end-to-end data compilation and analysis for raw materials, systematically optimizing production workflows. This initiative resulted in a 15% increase in production efficiency and a 10% increase in revenue, demonstrating significant operational improvements.",
+        "Implemented innovative data reporting techniques, including both static reports and dynamic dashboard methods, which enhanced decision-making capabilities and overall productivity.",
+        "Streamlined communication between departments by conducting regular data audits, successfully reducing data discrepancies by 20%, thereby improving data accuracy and inter-departmental collaboration.",
       ],
     },
     {
