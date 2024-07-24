@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.bb9241ef.css",
+    "main.js": "/Portfolio/static/js/main.9d8e528a.js",
+    "static/media/Sport Analysis- Cricket .png": "/Portfolio/static/media/Sport Analysis- Cricket .212be251518ff25ad8f3.png",
+    "static/media/ABG.png": "/Portfolio/static/media/ABG.c37dc98694c2a2bb9d4a.png",
+    "static/media/CAS.png": "/Portfolio/static/media/CAS.2ee73922ff3d01a98332.png",
+    "static/media/Coursera.png": "/Portfolio/static/media/Coursera.ef79354f53666042a2ea.png",
+    "static/media/calculating-premium.png": "/Portfolio/static/media/calculating-premium.3d2e66bab95bde1e3243.png",
+    "static/media/HPA.png": "/Portfolio/static/media/HPA.0d85c3584fff0992bcc7.png",
+    "static/media/photo.png": "/Portfolio/static/media/photo.04101a475832f143c1ca.png",
+    "static/media/BetaGammaSigma.png": "/Portfolio/static/media/BetaGammaSigma.12989dc84bb87defd3f4.png",
+    "static/media/SPAM Detection in Email.png": "/Portfolio/static/media/SPAM Detection in Email.94dade5643aa7ac01734.png",
+    "static/media/Google Ads - Search Certification.png": "/Portfolio/static/media/Google Ads - Search Certification.5b5e7da3b3f1b3d0edd3.png",
+    "static/media/Datawarehouse.png": "/Portfolio/static/media/Datawarehouse.1a24b51b96d79e9fe146.png",
+    "static/media/Google_Data_Analytics_Certificate_Badge.png": "/Portfolio/static/media/Google_Data_Analytics_Certificate_Badge.8e27a332d101f6cf0e34.png",
+    "static/media/Google Ads - Measurement Certification.png": "/Portfolio/static/media/Google Ads - Measurement Certification.6e04c955ee198ea35b49.png",
+    "static/media/Google Ads - Display Certification.png": "/Portfolio/static/media/Google Ads - Display Certification.f1f578489dab57d4bdfe.png",
+    "static/media/DBMS.jpg": "/Portfolio/static/media/DBMS.f452ec03c222f3203b3b.jpg",
+    "static/media/SixSIgmaGreenBelt.png": "/Portfolio/static/media/SixSIgmaGreenBelt.5c84f21e86d8043036cb.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.cb69bbb5c62ff7d7cee4.png",
+    "static/media/SHARK TANK.png": "/Portfolio/static/media/SHARK TANK.676fed5a40a13ad3a286.png",
+    "static/media/EnergyEfficiency.jpg": "/Portfolio/static/media/EnergyEfficiency.52b0455554539a1d4166.jpg",
+    "static/media/Divorce Analysis.png": "/Portfolio/static/media/Divorce Analysis.b92545369a9c4b6257d6.png",
+    "static/media/Heart Failure Medical Analysis.png": "/Portfolio/static/media/Heart Failure Medical Analysis.d57a1e35bab758f27c4d.png",
+    "static/media/ab-testing.png": "/Portfolio/static/media/ab-testing.d63f9c0c3ecd6b89f8d6.png",
+    "static/media/scroll-down.svg": "/Portfolio/static/media/scroll-down.f379348c6096553dbfe4d31167015caa.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/blob-haikei.svg": "/Portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.bb9241ef.css.map": "/Portfolio/static/css/main.bb9241ef.css.map",
+    "main.9d8e528a.js.map": "/Portfolio/static/js/main.9d8e528a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb9241ef.css",
+    "static/js/main.9d8e528a.js"
+  ]
+}
