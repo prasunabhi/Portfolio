@@ -17,7 +17,7 @@ const Header = ({ toggle }) => {
             Education
           </NavLink>
           <NavLink className="menu-item" to="experience">
-            Experience
+          Experience
           </NavLink>
           <NavLink className="menu-item" to="projects">
             Projects
