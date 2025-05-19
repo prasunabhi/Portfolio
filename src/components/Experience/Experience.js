@@ -4,8 +4,8 @@ import "./Experience.css";
 function Experience() {
   const workExperience = [
     {
-      id: 1,
-      position: "Business Analytics Consultant",
+      id:1,
+      position: "Business Analyst Consultant",
       company: "Baxter International Inc.",
       location: "Skaneateles, NY",
       date: "September 2023 - December 2023",
